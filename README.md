@@ -13,8 +13,8 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 | :--- | :--- |
 | **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
 | **Backend** | Node.js, Express.js, NestJS, RESTful APIs, GraphQL |
-| **Frontend** | React.js, Next.js, Tailwind CSS |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
+| **Frontend** | React.js,Tailwind CSS |
+| **Databases** | PostgreSQL, MongoDB, Redis |
 | **DevOps & Tools** | Git, GitHub, Docker, AWS, Postman, CI/CD |
 
 ---
@@ -28,10 +28,10 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 ### 🏆 Featured Projects
 
-#### 🚀 [Project Name 1] — [Short 4-5 word description]
+#### 🚀 Evoter — A School Voting System
 * Built a fully scalable [system type] using **TypeScript**, **Node.js**, and **PostgreSQL**.
 * Optimized database queries, reducing API response times by **[X]%**.
-* [👉 Live Demo](Link) | [💻 Source Code](Link)
+* [👉 Live Demo](https://e-voter-frontend-ck6g.vercel.app/) | [💻 Source Code](Link)
 
 #### 🛠️ [Project Name 2] — [Short 4-5 word description]
 * Developed an end-to-end web application featuring real-time updates via WebSockets.
@@ -45,17 +45,12 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 Let's build something impactful together! Feel free to reach out for a virtual coffee chat or interview.
 
 - 💼 **LinkedIn:** [/in/your-profile-url](https://linkedin.com)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email:** [your.email@example.com](mailto:joelanzovule@gmail.com)
 - 🌐 **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
 - 🐦 **Twitter/X:** [@your_handle](https://x.com)
 
 ---
 
-<p align="center">
-  <img src="https://vercel.app" alt="Your GitHub Stats" />
-</p>
 
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Node.js](https://shields.io)
+
 
