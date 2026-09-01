@@ -49,6 +49,9 @@ Let's build something impactful together! Feel free to reach out for a virtual c
 - 🌐 **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
 - 🐦 **Twitter/X:** [@your_handle](https://x.com)
 
+- ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Nodejs](https://shields.io)
+
+
 ---
 
 
