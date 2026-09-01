@@ -41,19 +41,15 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 ---
 
 <h3>🛠️ Tech Stack & Languages</h3>
-<p align="left">
-  <!-- Languages & Frontend -->
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="C" />
-  
-  <!-- Backend & Databases -->
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-</p>
+[![JavaScript](https://shields.io)](https://github.com)
+[![React](https://shields.io)](https://github.com)
+[![HTML5](https://shields.io)](https://github.com)
+[![CSS3](https://shields.io)](https://github.com)
+[![C](https://shields.io)](https://github.com)
+[![Node.js](https://shields.io)](https://github.com)
+[![MongoDB](https://shields.io)](https://github.com)
+[![PostgreSQL](https://shields.io)](https://github.com)
+
 
 
 
