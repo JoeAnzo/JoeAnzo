@@ -40,6 +40,15 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 ---
 
+<h3>🛠️ Tech Stack & Languages</h3>
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+</p>
+
+
+
 ### 🤝 Connect With Me
 
 Let's build something impactful together! Feel free to reach out for a virtual coffee chat or interview.
