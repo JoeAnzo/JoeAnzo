@@ -53,6 +53,9 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 </p>
 
 
+<p align="left">
+  <img src="https://skillicons.dev" alt="My Tech Stack" />
+</p>
 
 
 
