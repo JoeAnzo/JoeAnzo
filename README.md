@@ -42,15 +42,16 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 <h3>🛠️ Tech Stack & Languages</h3>
 <p align="left">
-  <img src="https://githubusercontent.com" width="90" alt="JavaScript" />
-  <img src="https://githubusercontent.com" width="75" alt="React" />
-  <img src="https://githubusercontent.com" width="70" alt="HTML5" />
-  <img src="https://githubusercontent.com" width="65" alt="CSS3" />
-  <img src="https://githubusercontent.com" width="50" alt="C" />
-  <img src="https://githubusercontent.com" width="80" alt="Node.js" />
-  <img src="https://githubusercontent.com" width="90" alt="MongoDB" />
-  <img src="https://githubusercontent.com" width="100" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="PostgreSQL" />
 </p>
+
 
 
 
