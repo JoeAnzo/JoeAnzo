@@ -42,23 +42,17 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 <h3>🛠️ Tech Stack & Languages</h3>
 <p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="./icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="40" height="40"/>
+  <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="40" height="40"/>
+  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
+  <img src="./icons/src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
+  <img src="./icons/css3-svgrepo-com.svg" alt="CSS3" width="40" height="40"/>
+  <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="40" height="40"/>
+  <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="40" height="40"/>
+  <img src="./icons/postgresql-svgrepo-com.svg" alt="postgresql" width="40" height="40"/>
+  <img src="./icons/mongo-svgrepo-com.svg" alt="mongodb" width="40" height="40"/>
 </p>
-
-
-<p align="left">
-  <img src="https://skillicons.dev" alt="My Tech Stack" />
-</p>
-
-
-
 
 
 ### 🤝 Connect With Me
