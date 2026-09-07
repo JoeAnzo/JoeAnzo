@@ -11,8 +11,8 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, NestJS, RESTful APIs, GraphQL |
+| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3, Python, C|
+| **Backend** | Node.js, Express.js, RESTful APIs |
 | **Frontend** | React.js,Tailwind CSS |
 | **Databases** | PostgreSQL, MongoDB, Redis |
 | **DevOps & Tools** | Git, GitHub, Docker, AWS, Postman, CI/CD |
