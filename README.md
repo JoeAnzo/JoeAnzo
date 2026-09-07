@@ -11,9 +11,9 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3, Python, C|
+| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3, Python, C |
 | **Backend** | Node.js, Express.js, RESTful APIs |
-| **Frontend** | React.js,Tailwind CSS |
+| **Frontend** | React.js, Tailwind CSS |
 | **Databases** | PostgreSQL, MongoDB, Redis |
 | **DevOps & Tools** | Git, GitHub, Docker, AWS, Postman, CI/CD |
 
@@ -41,19 +41,22 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 ---
 
 <h3>🛠️ Tech Stack & Languages</h3>
-<p align="left">
-  <img src="./icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="40" height="40"/>
-  <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="40" height="40"/>
-  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
-  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
-  <img src="./icons/css3-svgrepo-com.svg" alt="CSS3" width="40" height="40"/>
-  <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="40" height="40"/>
-  <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="40" height="40"/>
-  <img src="./icons/postgresql-svgrepo-com.svg" alt="postgresql" width="40" height="40"/>
-  <img src="./icons/mongo-svgrepo-com.svg" alt="mongodb" width="40" height="40"/>
+<p align="center">
+  <img src="./icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="80" height="80" style="margin: 20px;"/>
 </p>
 
+<p align="center">
+  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/css3-svgrepo-com.svg" alt="CSS3" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/postgresql-svgrepo-com.svg" alt="postgresql" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/mongo-svgrepo-com.svg" alt="mongodb" width="80" height="80" style="margin: 20px;"/>
+</p>
+
+---
 
 ### 🤝 Connect With Me
 
@@ -64,10 +67,4 @@ Let's build something impactful together! Feel free to reach out for a virtual c
 - 🌐 **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
 - 🐦 **Twitter/X:** [@your_handle](https://x.com)
 
-- ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![Nodejs](https://shields.io)
-
-
 ---
-
-
-
