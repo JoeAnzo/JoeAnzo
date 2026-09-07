@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anzovule Joel!
 ### 🚀 Full-Stack Web Developer | TypeScript & Node.js Specialist
 
-I am a passionate, solution-driven Full-Stack Developer based in Uganda. I specialize in building scalable backend architectures, robust APIs, and performant web applications using the JavaScript/TypeScript ecosystem. I love transforming complex business problems into clean, maintainable code.
+I am a passionate, solution-driven Full-Stack Developer based in Uganda. I specialize in building scalable backend architectures, robust APIs, and performant web applications using the JavaScript/TypeScript ecosystem.
 
 📬 **Looking for new opportunities?** I am actively seeking full-time roles, remote contracts, or collaborative open-source projects!
 
@@ -46,7 +46,7 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
   <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="40" height="40"/>
   <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="40" height="40"/>
   <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
-  <img src="./icons/src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
+  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/>
   <img src="./icons/css3-svgrepo-com.svg" alt="CSS3" width="40" height="40"/>
   <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="40" height="40"/>
   <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="40" height="40"/>
@@ -68,7 +68,6 @@ Let's build something impactful together! Feel free to reach out for a virtual c
 
 
 ---
-
 
 
 
