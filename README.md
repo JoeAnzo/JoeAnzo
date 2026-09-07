@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anzovule Joel!
 ### 🚀 Full-Stack Web Developer | TypeScript & Node.js Specialist
 
-I am a passionate, solution-driven Full-Stack Developer based in Uganda. I specialize in building scalable backend architectures, robust APIs, and performant web applications using the JavaScript/TypeScript ecosystem.
+I am a passionate, solution-driven Full-Stack Developer based in Uganda. I specialize in building scalable backend architectures, robust APIs, and performant web applications using the JavaScript/Type[...]
 
 📬 **Looking for new opportunities?** I am actively seeking full-time roles, remote contracts, or collaborative open-source projects!
 
@@ -42,15 +42,15 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 <h3>🛠️ Tech Stack & Languages</h3>
 <p align="center">
-  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="80" height="80" style="margin: 10px 15px;"/>
-  <img src="./icons/css3-svgrepo-com.svg" alt="CSS3" width="80" height="80" style="margin: 10px 15px;"/>
-  <img src="./icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="80" height="80" style="margin: 10px 15px;"/>
-  <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="80" height="80" style="margin: 10px 15px;"/>
-  <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="80" height="80" style="margin: 10px 15px;"/>
-  <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="80" height="80" style="margin: 10px 15px;"/>
-  <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="80" height="80" style="margin: 10px 15px;"/>
-  <img src="./icons/postgresql-svgrepo-com.svg" alt="postgresql" width="80" height="80" style="margin: 10px 15px;"/>
-  <img src="./icons/mongo-svgrepo-com.svg" alt="mongodb" width="80" height="80" style="margin: 10px 15px;"/>
+  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/css3-svgrepo-com.svg" alt="CSS3" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/postgresql-svgrepo-com.svg" alt="postgresql" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/mongo-svgrepo-com.svg" alt="mongodb" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
 ---
