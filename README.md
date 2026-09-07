@@ -65,8 +65,8 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 Let's build something impactful together! Feel free to reach out for a virtual coffee chat or interview.
 
-- 💼 **LinkedIn:** [/in/your-profile-url](https://linkedin.com)
-- 📧 **Email:** [your.email@example.com](mailto:joelanzovule@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anzovule-joel-b1501434a(https://linkedin.com)
+- 📧 **Email:** joelanzovule@gmail.com(mailto:joelanzovule@gmail.com)
 - 🌐 **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
 - 🐦 **Twitter/X:** [@your_handle](https://x.com)
 
