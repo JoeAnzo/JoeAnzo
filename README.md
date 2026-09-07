@@ -42,16 +42,15 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 <h3>🛠️ Tech Stack & Languages</h3>
 <p align="center">
+  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/css3-svgrepo-com.svg" alt="CSS3" width="80" height="80" style="margin: 20px;"/>
   <img src="./icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="80" height="80" style="margin: 20px;"/>
   <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="80" height="80" style="margin: 20px;"/>
   <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="80" height="80" style="margin: 20px;"/>
   <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="80" height="80" style="margin: 20px;"/>
-  <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="80" height="80" style="margin: 20px;"/>
 </p>
-
 <p align="center">
-  <img src="./icons/html-5-svgrepo-com.svg" alt="HTML5" width="80" height="80" style="margin: 20px;"/>
-  <img src="./icons/css3-svgrepo-com.svg" alt="CSS3" width="80" height="80" style="margin: 20px;"/>
+  <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="80" height="80" style="margin: 20px;"/>
   <img src="./icons/postgresql-svgrepo-com.svg" alt="postgresql" width="80" height="80" style="margin: 20px;"/>
   <img src="./icons/mongo-svgrepo-com.svg" alt="mongodb" width="80" height="80" style="margin: 20px;"/>
 </p>
