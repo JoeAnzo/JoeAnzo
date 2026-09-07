@@ -47,7 +47,7 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
   <img src="./icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
   <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
   <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
-  <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="80" height="80" style="display: inline-block; margin-left:10px;"/>
   <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
   <img src="./icons/postgresql-svgrepo-com.svg" alt="postgresql" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
   <img src="./icons/mongo-svgrepo-com.svg" alt="mongodb" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
