@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anzovule Joel!
 ### 🚀 Full-Stack Web Developer | TypeScript & Node.js Specialist
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Cool Animation">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="500" alt="Cool Animation">
 
 I am a passionate, solution-driven Full-Stack Developer based in Uganda. I specialize in building scalable backend architectures, robust APIs, and performant web applications using the JavaScript/Typescript.
 
