@@ -60,8 +60,6 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;" alt="Full Width Square GIF">
-
 ### 🤝 Connect With Me
 
 Let's build something impactful together! Feel free to reach out for a virtual coffee chat or interview.
@@ -72,3 +70,4 @@ Let's build something impactful together! Feel free to reach out for a virtual c
 - 🐦 **Twitter/X:** [@your_handle](https://x.com)
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover;" alt="Full Width Square GIF">
