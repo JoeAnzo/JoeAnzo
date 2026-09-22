@@ -51,9 +51,9 @@ I am a passionate, solution-driven Full-Stack Developer based in Uganda. I speci
   <img src="./icons/react-javascript-js-framework-facebook-svgrepo-com.svg" alt="React" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
   <img src="./icons/next-js-svgrepo-com.svg" alt="nextjs" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
   <img src="./icons/typescript-icon-svgrepo-com.svg" alt="typescript" width="80" height="80" style="display: inline-block; margin-left:10px;"/>
-  <img src="./icons/nodejs-svgrepo-com.svg" alt="nodejs" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="nodejs" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
   <img src="./icons/postgresql-svgrepo-com.svg" alt="postgresql" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
-  <img src="./icons/mongo-svgrepo-com.svg" alt="mongodb" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTAwODU3NzgsIm5iZiI6MTc5MDA4NTQ3OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTIyVDEzNTc1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1YWM1ZTZiMmUxMDU4ZWRiNmU3MTYxZmFlYTgyZWFkNWNmZTlhOWI5OGVkZWRmODhkNzMyZDQ5ZTVjOGE4ODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.G6Xx1glg3zeOGushUVlGsyQ801_VUDUSImeHj8dYPZM" alt="mongodb" width="80" height="80" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
 ---
